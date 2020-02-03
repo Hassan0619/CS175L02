@@ -1,7 +1,7 @@
 package housePainting;
 import java.util.Scanner;
 
-public class housePainting {
+public class housePainting{
 
   public static void main(String[]args) {
 	  Scanner scan = new Scanner(System.in);
